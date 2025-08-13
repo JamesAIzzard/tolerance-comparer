@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import pytest
 
-from . import ToleranceComparer
+from tolerance_comparer import ToleranceComparer
 
 
 class TestToleranceComparer:
